@@ -8,11 +8,11 @@
     <br/>
     <a href="https://drive.google.com/file/d/1k35T2plLICuuwJIJoQ_r9BUdfotTNSuZ/view?usp=drive_link">View Demo</a>
     .
-    <a href="https://github.com/Shivanaik11/PARKEASE/issues">Report a Bug</a>
+    <a href="https://github.com/swasthishettyy/University-Management-System">Report a Bug</a>
   </p>
 </p>
 
-![Contributors](https://img.shields.io/github/contributors/Shivanaik11/PARKEASE?color=dark-green) ![Forks](https://img.shields.io/github/forks/Shivanaik11/PARKEASE?style=social) ![Stargazers](https://img.shields.io/github/stars/Shivanaik11/PARKEASE?style=social) 
+![Contributors](https://img.shields.io/github/contributors/swasthishettyy/University-Management-System?color=dark-green) ![Forks](https://img.shields.io/github/forks/swasthishettyy/University-Management-System?style=social) ![Stargazers](https://img.shields.io/github/stars/swasthishettyy/University-Management-System?style=social) 
 
 ## Table Of Contents
 * [About the Project](#about-the-project)
