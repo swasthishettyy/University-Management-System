@@ -20,11 +20,11 @@
 
 ## About The Project
 UNIVERSITY MANAGEMENT SYSTEM (UMS) covers every minute aspects of a universities work flow and integrates all processes with user friendly interface. UMS streamline path of information flow in organization by taking care of following departments:
-• Finance Department
-• Examination Department
-• Attendance
-• Faculty information portal
-• Student information portal
+- Finance Department
+- Examination Department
+- Attendance
+- Faculty information portal
+- Student information portal
 
 ## License
 Distributed under the MIT License. See [LICENSE](https://github.com/Shivanaik11/PARKEASE/blob/main/LICENSE.md) for more information.
