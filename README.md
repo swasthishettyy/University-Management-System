@@ -27,7 +27,8 @@ UNIVERSITY MANAGEMENT SYSTEM (UMS) covers every minute aspects of a universities
 - Student information portal
 
 ## License
-Distributed under the MIT License. See [LICENSE](https://github.com/Shivanaik11/PARKEASE/blob/main/LICENSE.md) for more information.
+Distributed under the MIT License. See [LICENSE](https://github.com/swasthishettyy/University-Management-System
+/blob/main/LICENSE.md) for more information.
 
 
 
