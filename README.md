@@ -6,9 +6,6 @@
   <p align="center">
     "Park with ease, pay with breeze - your hassle-free parking solution is here with PARKEASE!"
     <br/>
-    <br/>
-    <br/>
-    <br/>
     <a href="https://drive.google.com/file/d/1k35T2plLICuuwJIJoQ_r9BUdfotTNSuZ/view?usp=drive_link">View Demo</a>
     .
     <a href="https://github.com/Shivanaik11/PARKEASE/issues">Report a Bug</a>
